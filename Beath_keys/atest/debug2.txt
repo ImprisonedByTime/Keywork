@@ -1,0 +1,8 @@
+Processing ./lib/keyboard-0.13.5-py3-none-any.whl
+Installing collected packages: keyboard
+  Attempting uninstall: keyboard
+    Found existing installation: keyboard 0.13.5
+    Uninstalling keyboard-0.13.5:
+      Successfully uninstalled keyboard-0.13.5
+Successfully installed keyboard-0.13.5
+DEBUG: Starting key listener with `keyboard`...
